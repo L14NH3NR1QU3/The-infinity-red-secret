@@ -1238,7 +1238,6 @@ programa
 		}
 	funcao escolhaDeArea(){
 		botaoVoltar(632, 72)
-		botaoSair(280, 72)
 		inteiro y[3] = {300, 380, 460}
 		inteiro areas[3] = {g.COR_VERDE, g.COR_AMARELO, g.COR_BRANCO}
 		cadeia nomeAreaPT[3] = {"FLORESTA", "DESERTO", "MONTANHA"}
@@ -1328,7 +1327,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 57299; 
+ * @POSICAO-CURSOR = 54560; 
  * @DOBRAMENTO-CODIGO = [163, 167, 195, 225, 257, 274, 403, 900, 1021, 1159];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
