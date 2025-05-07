@@ -1140,7 +1140,6 @@ programa
 								treinoConsentracao()
 								botaoStatus()
 								botaoVoltar(632, 72)
-								botaoSair(282, 72)
 								g.renderizar()
 								}volta = verdadeiro
 							}
@@ -1149,7 +1148,6 @@ programa
 		g.definir_cor(g.criar_cor(50, 50, 50))
 		g.desenhar_retangulo(0, 240, 640, 90, falso, verdadeiro)
 		botaoVoltar(632, 72)
-		botaoSair(282, 72)
 		se(auxTreinamento == 0){
 				g.desenhar_texto(125, 250, "???")
 				}senao{
@@ -1327,8 +1325,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 54560; 
- * @DOBRAMENTO-CODIGO = [163, 167, 195, 225, 257, 274, 403, 900, 1021, 1159];
+ * @POSICAO-CURSOR = 51030; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
